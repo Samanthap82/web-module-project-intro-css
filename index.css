@@ -1,0 +1,48 @@
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+  .container {
+    width: 100%;
+    max-width: 1200px;
+    border-radius: 25px;
+    
+}
+   body{ text-align: center;
+    width: 900px; 
+	margin: 0 auto; 
+  }
+  .boxes-top{
+    color:white;
+    text-align: center;
+  } 
+  
+  .Plan{
+background-color: #FF764E;
+border-radius: 50px;
+}
+.Learn{
+    background-color: #5ED3EB;
+    border-radius: 25px;
+}
+.Involved{
+    background-color: #FFCD69;
+    border-radius: 25px;
+}
+  h2{ 
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+} 
+
+.Main-body{
+    background-color: #DDB9A3;
+}
+.footer-pic {
+    
+   
+    
+}
+footer {
+     display: inline-block;
+    text-align: center;
+    border-radius: 50px;
+    margin: center;
+    width: 100%;
+    color: white;
+}
