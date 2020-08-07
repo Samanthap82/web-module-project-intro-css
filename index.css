@@ -12,7 +12,7 @@
   article, aside, canvas, details, embed,  
   figure, figcaption, footer, header, hgroup,  
   menu, nav, output, ruby, section, summary,  
-  time, mark, audio, video {  
+  time, mark, audio, video, {  
   margin: 0;  
   padding: 0;  
   border: 0;  
@@ -20,21 +20,6 @@
   font: inherit;  
   vertical-align: baseline; 
 }
-html{
-  font-size:62.5%;
-}
-body{
-  font-size:1.6rem;
-  font-family: 'Roboto Mono', monospace;
-  line-height:1.5;
-}
-h2{
-  font-size:1.6rem;
-  font-weight:normal;
-}
-h1{
-  font-family: 'Chelsea Market', cursive;
-  font-size:4rem;
 }
 html{
   font-size:62.5%;
@@ -52,39 +37,7 @@ h1{
   font-family: 'Chelsea Market', cursive;
   font-size:4rem;
 }
-html{
-  font-size:62.5%;
-}
-body{
-  font-size:1.6rem;
-  font-family: 'Roboto Mono', monospace;
-  line-height:1.5;
-}
-h2{
-  font-size:1.6rem;
-  font-weight:normal;
-}
-h1{
-  font-family: 'Chelsea Market', cursive;
-  font-size:4rem;
-}
-html{
-  font-size:62.5%;
-}
-body{
-  font-size:1.6rem;
-  font-family: 'Roboto Mono', monospace;
-  line-height:1.5;
-}
-h2{
-  font-size:1.6rem;
-  font-weight:normal;
-}
-h1{
-  font-family: 'Chelsea Market', cursive;
-  font-size:4rem;
-  letter-spacing:2px;
-}
+
 section, footer{
   padding:4% 0;
 }
@@ -146,12 +99,12 @@ nav{
   background-color:#DDB9A3;
   margin:0 auto;
   padding:2%;
-  color:#fff;
+  color:#ffffff;
 }
 .paragraph-One p{
   margin: 2% 0;
 }
-#plan{
+.plan{
   display:flex;
   flex-direction:column;
   align-items:center;
