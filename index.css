@@ -35,6 +35,38 @@ h2{
 h1{
   font-family: 'Chelsea Market', cursive;
   font-size:4rem;
+}
+html{
+  font-size:62.5%;
+}
+body{
+  font-size:1.6rem;
+  font-family: 'Roboto Mono', monospace;
+  line-height:1.5;
+}
+h2{
+  font-size:1.6rem;
+  font-weight:normal;
+}
+h1{
+  font-family: 'Chelsea Market', cursive;
+  font-size:4rem;
+}
+html{
+  font-size:62.5%;
+}
+body{
+  font-size:1.6rem;
+  font-family: 'Roboto Mono', monospace;
+  line-height:1.5;
+}
+h2{
+  font-size:1.6rem;
+  font-weight:normal;
+}
+h1{
+  font-family: 'Chelsea Market', cursive;
+  font-size:4rem;
   letter-spacing:2px;
 }
 section, footer{
